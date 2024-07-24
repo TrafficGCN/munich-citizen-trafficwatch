@@ -20,7 +20,7 @@ This repository contains a Python script to scrape and gather messages from the 
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/munich-transport-messages.git
+    git clone https://github.com/thomas.fink/munich-transport-messages.git
     cd munich-transport-messages
     ```
 
@@ -81,7 +81,7 @@ Dieses Repository enthält ein Python-Skript, um Nachrichten von der Münchner B
 
 1. Klonen Sie dieses Repository:
     ```sh
-    git clone https://github.com/yourusername/munich-transport-messages.git
+    git clone https://github.com/thomas.fink/munich-transport-messages.git
     cd munich-transport-messages
     ```
 
