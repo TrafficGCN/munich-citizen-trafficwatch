@@ -33,7 +33,7 @@ This repository contains a Python script to scrape and gather messages from the 
 
 1. Run the script to scrape the entire area and fetch message details:
     ```sh
-    python scrape_and_fetch.py
+    python scrape_map.py
     ```
 
 2. The script will save two files:
@@ -94,7 +94,7 @@ Dieses Repository enthält ein Python-Skript, um Nachrichten von der Münchner B
 
 1. Führen Sie das Skript aus, um das gesamte Gebiet zu durchsuchen und Nachrichtendetails abzurufen:
     ```sh
-    python scrape_and_fetch.py
+    python scrape_map.py
     ```
 
 2. Das Skript speichert zwei Dateien:
