@@ -38,8 +38,8 @@ This repository contains a Python script to scrape and gather messages from the 
 
 2. The script will save two files:
     - `combined_response.json`: The combined data of all messages scraped from the specified area.
-    - `updated_combined_response_with_details.json`: The combined data with infobox and message details.
-    - `slim_export.json`: A slim export containing only the message details.
+    - `updated_combined_response_with_details.json`: The combined data with infobox and message and answers.
+    - `slim_export.json`: A slim export containing only the message and answers.
 
 ## Script Explanation
 
@@ -99,8 +99,8 @@ Dieses Repository enthält ein Python-Skript, um Nachrichten von der Münchner B
 
 2. Das Skript speichert zwei Dateien:
     - `combined_response.json`: Die kombinierten Daten aller gesammelten Nachrichten aus dem angegebenen Gebiet.
-    - `updated_combined_response_with_details.json`: Die kombinierten Daten mit Infobox- und Nachrichtendetails.
-    - `slim_export.json`: Ein kompakter Export, der nur die Nachrichtendetails enthält.
+    - `updated_combined_response_with_details.json`: Die kombinierten Daten mit Infobox- und Nachrichten und Antworten.
+    - `slim_export.json`: Ein kompakter Export, der nur die Nachrichten und Antworten enthält.
 
 ## Erklärung des Skripts
 
