@@ -3,7 +3,7 @@
 This repository contains a Python script to scrape and gather messages from the Munich transport complaint platform. The script scrapes data within a specified geographical area, fetches detailed information for each message, and saves the results to JSON files.
 
 ## Terms of Use and Data Refrences
-To use or publish this data, you must follow the terms of use, which can be found at https://muenchenunterwegs.de/p/impressum and cite the data from the City of Munich Mobilitätsreferat.
+To use or publish this data, you must follow the terms of use, which can be found at https://muenchenunterwegs.de/p/impressum https://muenchenunterwegs.de/kontakt and cite the data from the City of Munich Mobilitätsreferat.
 
 ## Features
 
@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Dieses Repository enthält ein Python-Skript, um Nachrichten von der Münchner Beschwerdeplattform für Verkehrsmeldungen zu sammeln. Das Skript sammelt Daten innerhalb eines bestimmten geografischen Gebiets, ruft detaillierte Informationen für jede Nachricht ab und speichert die Ergebnisse in JSON-Dateien.
 
 ## Nutzungsbedingungen und Datenreferenzen
-Um diese Daten zu verwenden oder zu veröffentlichen, müssen Sie die Nutzungsbedingungen beachten, die Sie unter https://muenchenunterwegs.de/p/impressum finden, und die Daten des Mobilitätsreferats der Stadt München zitieren.
+Um diese Daten zu verwenden oder zu veröffentlichen, müssen Sie die Nutzungsbedingungen beachten, die Sie unter https://muenchenunterwegs.de/p/impressum https://muenchenunterwegs.de/kontakt finden, und die Daten des Mobilitätsreferats der Stadt München zitieren.
 
 ## Funktionen
 
