@@ -1,6 +1,6 @@
 # Munich Transportation Messages
 
-This repository contains a Python script to scrape and gather messages from the Munich transport complaint platform. The script scrapes data within a specified geographical area, fetches detailed information for each message, and saves the results to JSON files.
+This repository contains a Python script to scrape and gather messages from the Munich commute/transport complaint and appeal platform. The script scrapes data within a specified geographical area, fetches detailed information for each message, and saves the results to JSON files.
 
 <img src="https://github.com/TrafficGCN/munich-transportion-messages/blob/main/Download.png?raw=true" width="100%" align="right">
 <br />
